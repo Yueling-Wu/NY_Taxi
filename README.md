@@ -11,3 +11,5 @@ Load data and analyze:
 3. Find interesting trip statistics grouped by hour
 4. Build a model to understand what kind of trip yields better tips.
 5. Visualize the data to help understand trip patterns
+
+(The jupyter notebook is too large to render, please see the pdf version.)
